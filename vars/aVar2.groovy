@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
 
-def call() {
-    echo "default aVar1"
+def call((String name = 'human') {
+    echo "hellooo, ${name}."
 }
