@@ -2,7 +2,7 @@ package org.sample
 
 class MyClass {
     MyClass() {
-        println "MyClass()"
+        echo "MyClass()"
     }
 
     public String toString() {

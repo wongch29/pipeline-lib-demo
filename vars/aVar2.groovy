@@ -1,3 +1,3 @@
 def call() {
-    println "default aVar1"
+    echo "default aVar1"
 }

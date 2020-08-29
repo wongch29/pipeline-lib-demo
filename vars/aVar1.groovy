@@ -1,3 +1,3 @@
 def afunction() {
-    println "hello aVar1.afunction()"
+    echo "hello aVar1.afunction()"
 }
